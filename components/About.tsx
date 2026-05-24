@@ -35,12 +35,10 @@ export default function About() {
 
             <div className="relative z-10">
               <h3 className="text-[#00d8f6] font-bold text-[20px] mb-4">
-                Physical Energy
+                물리적 에너지 (Physical Energy)
               </h3>
               <p className="text-slate-400 text-[14px] leading-[1.65] max-w-[85%] font-light">
-                Reliable logistics and resilient energy networks form the backbone of
-                modern industrial stability. We optimize the flows that power the
-                world.
+                신뢰할 수 있는 물류와 복원력 있는 에너지 네트워크는 현대 산업 안정성의 근간을 형성합니다. 우리는 세상을 움직이는 흐름을 최적화합니다.
               </p>
             </div>
           </motion.div>
@@ -62,11 +60,10 @@ export default function About() {
             </div>
 
             <h3 className="text-white font-bold text-[18px] mb-3">
-              Global Trust
+              글로벌 신뢰 (Global Trust)
             </h3>
             <p className="text-slate-400 text-[14px] leading-[1.65] max-w-[80%] font-light">
-              A legacy built on precision and professional stability across
-              international borders.
+              국경을 넘어 정밀함과 전문적인 안정성을 바탕으로 쌓아 올린 신뢰의 유산입니다.
             </p>
           </motion.div>
 
@@ -84,10 +81,10 @@ export default function About() {
                 <Cpu className="h-5 w-5" />
               </div>
               <h3 className="text-white font-bold text-[18px] mb-3">
-                Intelligence
+                지능화 기술 (Intelligence)
               </h3>
               <p className="text-slate-400 text-[14px] leading-[1.65] max-w-[90%] font-light">
-                Leveraging AI to transform raw data into actionable social energy.
+                AI를 활용하여 가공되지 않은 데이터를 실천 가능한 사회적 에너지로 전환합니다.
               </p>
             </div>
           </motion.div>
@@ -102,11 +99,10 @@ export default function About() {
           >
             <div className="flex-1">
               <h3 className="text-white font-bold text-[18px] mb-3">
-                Social Energy
+                사회적 에너지 (Social Energy)
               </h3>
               <p className="text-slate-400 text-[14px] leading-[1.65] font-light">
-                Creating safety and harmony through intelligent systems that
-                protect and enhance human interaction in the digital age.
+                디지털 시대에 인간 상호 작용을 보호하고 촉진하는 지능형 시스템을 통해 안전과 조화를 창출합니다.
               </p>
             </div>
 
