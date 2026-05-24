@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,72990,t=>{t.q("/hanbitens/_next/static/media/brain_network.16yxy70_mt0op.png")}]);
